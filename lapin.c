@@ -1,3 +1,7 @@
+
+/*https://www.codechef.com/problems/LAPIN*/
+
+
 #include <stdio.h>
 #include <string.h>
 int check( int a, int b);
