@@ -1,3 +1,5 @@
+// i forgot the question lol ; could'nt find it as well  
+
 #include <stdio.h>
 int main() {
   int m,n,t,x=0;
