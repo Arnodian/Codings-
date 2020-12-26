@@ -21,6 +21,7 @@ int main() {
 }
 while (x!=0) {
   printf("%d\n",a[t] );
+  printf("lol write the question too pls");
   t++;
   x--;
 }
