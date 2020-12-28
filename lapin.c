@@ -8,7 +8,7 @@ int check( int a, int b);
 int main() {
   int t;
   scanf("%d\n",&t );
-  int res[1000]={0},x=0;
+  static int res[1000],x;
   char s[1000];
   int sint[1000];
   while (t!=0) {
