@@ -1,0 +1,5 @@
+price = float(input())
+tip = int(input())
+tax = int(input())
+price = price+((tip/100)*price)+((tax/100)*price)
+print(round(price))
